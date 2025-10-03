@@ -122,7 +122,7 @@ def turn():
 show()
 RUNNING = True
 while RUNNING:
-    clock.tick(SCORE+3)          # 每秒 10 帧，可调速度
+    clock.tick(SCORE+3)          # 速度越来越快
     read()
     turn()
     if not move():
