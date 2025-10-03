@@ -8,4 +8,7 @@
 
 ## 📸 截图
 <img width="605" height="435" alt="屏幕截图 2025-10-03 154830" src="https://github.com/user-attachments/assets/e01dac45-84f3-4506-9575-c828619ad79a" />
+## 👇 下载源码
 
+## 📬 联系我
+Issues 里随便提 Bug / 建议，看到就回！
