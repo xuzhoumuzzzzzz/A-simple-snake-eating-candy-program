@@ -7,4 +7,4 @@
 - ✅ 速度随分数越来越快
 
 ## 📸 截图
-![game](https://github.com/user-attachments/assets/7e7d5cc1-8f08-4e5e-8ee5-8a8837293905)
+<img width="362" height="260" alt="屏幕截图 2025-10-03 152143" src="https://github.com/user-attachments/assets/5b9c1781-783f-4782-90e5-23c1d781b162" />
